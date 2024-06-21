@@ -12,7 +12,7 @@ int main()
         {
             cout<<a<<endl;
         }
-        if(n == 2)
+        else if(n == 2)
         {
             cout<<a<<" "<<b<<endl;
         }
